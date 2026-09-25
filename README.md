@@ -8,7 +8,7 @@
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows&logoColor=white)
 ![Version](https://img.shields.io/badge/version-0.2.0-informational)
 ![Tests](https://img.shields.io/badge/tests-197%20passing-brightgreen)
-![License](https://img.shields.io/badge/license-proprietary-lightgrey)
+[![License](https://img.shields.io/badge/license-MIT-yellow)](LICENSE)
 
 [Quick start](#-quick-start) •
 [How it works](#-how-it-works) •
@@ -103,7 +103,7 @@ while Prospector runs on your PC. It doesn't run Prospector itself.
 python android/build_apk.py
 ```
 
-See [`android/README.md`](android/README.md).
+See `android/build_apk.py` for build options.
 
 ---
 
@@ -327,5 +327,5 @@ went wrong, and its docstring says what. Among them —
 ---
 
 <div align="center">
-<sub>Built by <a href="https://github.com/AxeyShane">@AxeyShane</a> · © 2026 Akshay Kharvi. All rights reserved.</sub>
+<sub>Built by <a href="https://github.com/AxeyShane">@AxeyShane</a> · MIT License · © 2026 Akshay Kharvi</sub>
 </div>
